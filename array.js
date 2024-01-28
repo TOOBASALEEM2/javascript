@@ -1,0 +1,12 @@
+var fruits =["apple","mango","grapes","banana","strawbery"]
+document.write(fruits)
+document.write(fruits.length)
+document.write(fruits.pop())
+document.write(fruits.push("kiwi"))
+document.write(fruits.reverse())
+document.write(fruits.shift())
+document.write(fruits.at())
+document.write(fruits.join("*"))
+document.write(fruits.unshift("kiwi"))
+document.write(fruits.copyWithin(2,0))
+document.write(fruits)
